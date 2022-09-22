@@ -1,12 +1,13 @@
-
 import React from 'react'
-import Home from './Screen/Home'
-import Register from './Screen/Register'
-import Login from './Screen/Login'
+import Login from './screens/Login'
+import Home from './screens/Home'
+import Register from "./screens/Register"
 function App() {
   return (
     <div>
-        
+      
+      
+
     </div>
   )
 }
